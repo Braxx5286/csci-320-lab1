@@ -65,5 +65,5 @@ Your program must perform the following:
 
 ## Submission
 
-Your are to submit your GitHub repo link on Blackboard.  Your repo should show no submissions after the submissions deadline.  Any submissions after the deadline will result in an immediate zero (0) on the assignment.  If your **program does not compile, you will receive a zero (0) on the assignment**.  A rubric is provided with the assignment on Blackboard.
+Your are to submit your GitHub repo link on Blackboard.  Your repo should show no submissions after the submissions deadline.  Any submissions after the deadline will result in an immediate zero (0) on the assignment.  If your **program does not compile, you will receive a zero (0) on  the assignment**.  A rubric is provided with the assignment on Blackboard.
 
